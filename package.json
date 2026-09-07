@@ -1,0 +1,9 @@
+{
+  "name": "syncora",
+  "type": "module",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
